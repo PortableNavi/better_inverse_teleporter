@@ -1,6 +1,6 @@
 # BetterInverseTeleporter (BIT)
 A small mod for Lethal Company allowing the player bring items trough the inverse teleporter.
-The times of porting into locked rooms wihout a key are over...
+The times of porting into locked rooms wihout a key are now over...
 
 
 ## Installation
